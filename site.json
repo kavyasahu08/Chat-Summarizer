@@ -1,0 +1,10 @@
+{
+  "description": "This AI-powered chat summarizer helps users quickly catch up on missed conversations by prioritizing key points and insights for efficient communication.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
